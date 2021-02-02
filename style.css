@@ -32,3 +32,9 @@ p {
     height: 15px;
     width: 1000px;
 }
+
+#profile {
+    width: 210px;
+    height: 200px;
+    border-radius: 50%;
+}
