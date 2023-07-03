@@ -1,1 +1,26 @@
+html, body {
+    height: 100%;
+}
 
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Raleway', sans-serif;
+}
+
+#giraffe {
+    width: 150px;
+}
+
+#vidFrame {
+    width: 250px;
+}
